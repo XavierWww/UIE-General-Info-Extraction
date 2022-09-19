@@ -1,0 +1,4 @@
+paddlenlp==2.3.4
+paddlepaddle-gpu==2.3.1
+sanic==22.3.2
+seqeval==1.2.2
